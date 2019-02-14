@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Match Center</string>
+
+    <!--Hardcoded Team Names-->
+    <string name="team_a_string">Bournemouth</string>
+    <string name="team_b_string">Everton</string>
+
+    <!--Stats screen strings-->
+    <string name="stats_score_txt">Score</string>
+    <string name="stats_half_time_score">Half-time Score</string>
+    <string name="stats_possession_txt">Possession</string>
+    <string name="stats_shots_text">Shots</string>
+    <string name="stats_shots_ontarget_text">Shots On Target</string>
+    <string name="stats_corners_text">Corners</string>
+    <string name="stats_fouls_text">Fouls</string>
+    <string name="stats_yellow_card_text">Yellow Cards</string>
+    <string name="stats_red_cards_text">Red Cards</string>
+
+    <!--Error messages-->
+    <string name="network_error_msg">Sorry, there was a problem connecting to our server</string>
+    <string name="refree_text">Refree:</string>
+
+
+</resources>
